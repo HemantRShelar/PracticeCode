@@ -86,6 +86,7 @@ public class ExtentreportSelenium {
 			WebElement women=driver.findElement(By.className("sf-with-ul"));women.click();
 			test.pass("I have Completed Selection");
 			test.pass("I have added by Saurab");
+			test.pass("I have added by Pallavi");
 		} catch (Exception e) {
 			test.fail("There is some problem in selection"+ e.getMessage());
 			test.fail(MediaEntityBuilder.createScreenCaptureFromPath(screenshot("screenshot2")).build());
