@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19386" started-at="2021-11-18T08:12:05 IST" finished-at="2021-11-18T08:12:24 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19386" started-at="2021-11-18T08:12:05 IST" finished-at="2021-11-18T08:12:24 IST">
+      <class name="AutomationPractice.PracticeCode.ExtentreportSelenium">
+        <test-method status="PASS" signature="setup()[pri:0, instance:AutomationPractice.PracticeCode.ExtentreportSelenium@78c03f1f]" name="setup" is-config="true" duration-ms="10241" started-at="2021-11-18T08:12:05 IST" finished-at="2021-11-18T08:12:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signup()[pri:1, instance:AutomationPractice.PracticeCode.ExtentreportSelenium@78c03f1f]" name="signup" duration-ms="2430" started-at="2021-11-18T08:12:15 IST" finished-at="2021-11-18T08:12:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method status="PASS" signature="Select()[pri:2, instance:AutomationPractice.PracticeCode.ExtentreportSelenium@78c03f1f]" name="Select" duration-ms="3091" started-at="2021-11-18T08:12:17 IST" finished-at="2021-11-18T08:12:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Select -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:AutomationPractice.PracticeCode.ExtentreportSelenium@78c03f1f]" name="teardown" is-config="true" duration-ms="3571" started-at="2021-11-18T08:12:21 IST" finished-at="2021-11-18T08:12:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- AutomationPractice.PracticeCode.ExtentreportSelenium -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
